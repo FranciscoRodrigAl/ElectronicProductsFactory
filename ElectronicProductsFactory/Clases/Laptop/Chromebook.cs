@@ -17,7 +17,7 @@ namespace ElectronicProductsFactory.Clases.Laptop
 
         public string turnOn()
         {
-            return "turnin on Chromebook";
+            return "turning on Chromebook";
         }
     }
 }
